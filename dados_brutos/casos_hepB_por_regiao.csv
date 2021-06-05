@@ -1,0 +1,24 @@
+HEPATITES VIRAIS - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Ano Diag/sintomas e Região de residência
+Class. Etiológica: Vírus B
+Período:2001-2006
+"Ano Diag/sintomas";"1 Região Norte";"2 Região Nordeste";"3 Região Sudeste";"4 Região Sul";"5 Região Centro-Oeste";"0 Ignorado/Exterior";"Total"
+"2001";820;931;2542;3167;867;-;8327
+"2002";1032;1059;3039;2838;872;1;8841
+"2003";1065;1230;4802;3512;1062;2;11673
+"2004";1122;1539;5417;3589;1166;2;12835
+"2005";1213;1880;5310;4070;1633;1;14107
+"2006";1168;1125;4321;3355;1361;-;11330
+"Total";6420;7764;25431;20531;6961;6;67113
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan 
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados em série histórica selecione na linha a variável de interesse, na Coluna Ano dos 1ºs sintomas;
+    em Períodos Disponíveis assinale o ano inicial da série e todos os posteriores até o ano atual (p/ incluir casos notificados
+    com atraso) e em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: série histórica de nº de casos, 2001 a 2005:
+    selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos disponíveis-2001 até o ano atual e
+    em Seleções assinale Ano de 1ºs sintomas de 2001 a 2005).
+ Para cálculo da incidência utilize locais de residência.
+ 
