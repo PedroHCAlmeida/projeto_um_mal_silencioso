@@ -146,7 +146,7 @@ def plota_grafico(dados: pd.DataFrame, x: str, y:str, hue=None, title='', subtit
         plt.savefig(f'../images/{file_name}')
 
     #Verificando se foi passado para mostrar o gráfico
-    if show:
+    if show == True:
         #Mostrando o gráfico
         plt.show()
         
