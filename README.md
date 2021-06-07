@@ -7,7 +7,11 @@ Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projet
 
 
 # Tecnologias utilizadas
-
+Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 e algumas bibliotecas:
+*pandas
+*matplotlib
+*seaborn
+*re
 # Sobre o projeto
 
 # Hepatites virais
