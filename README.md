@@ -2,13 +2,13 @@
 
 # Introdução
 
-# Hepatites virais
+# Tecnologias utilizadas
 
 # Sobre o projeto
 
-# Perguntas a serem respondidas
+# Hepatites virais
 
-# Tecnologias utilizadas
+# Perguntas a serem respondidas
 
 # Conclusões 
 
