@@ -16,7 +16,7 @@ O fígado é é considerado um dos maiores órgãos do corpo humano, ele é resp
 
 ## Hepatites Virais
 
-Vários vírus podem causar quadros de inflamação do fígado, ou seja, hepatite. Porém, as chamadas hepatites virais são apenas aquelas causadas por **vírus que atacam preferencialmente o fígado**, portanto, até hoje foram descobertas 5 hepatites virais causadas por diferentes vírus, sendo elas a Hepatite A, B, C, D e E, porém as duas últimas(D e E) não são tão comuns no Brasil e portanto nesse projeto o foco será na **Hepatite A, B e C**.
+Vários vírus podem causar quadros de inflamação do fígado, ou seja, hepatite. Porém, as chamadas hepatites virais são apenas aquelas causadas por **vírus que atacam preferencialmente o fígado**, portanto, até hoje foram descobertas 5 hepatites virais causadas por diferentes vírus, sendo elas a Hepatite A, B, C, D e E, porém as duas últimas(D e E) não são tão comuns no Brasil e portanto nesse projeto o foco será na __Hepatite A, B e C__.
 
 ## Hepatite A
 
