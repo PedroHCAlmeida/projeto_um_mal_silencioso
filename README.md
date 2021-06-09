@@ -56,7 +56,7 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 
 # Referências bibliográficas
 
-https://mundoeducacao.uol.com.br/biologia/figado.htm
-https://hepatogastro.com.br/importancia-da-saude-do-figado/
-https://www.tuasaude.com/funcao-do-figado/
-https://brasilescola.uol.com.br/biologia/o-figado.htm
+https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
+https://hepatogastro.com.br/importancia-da-saude-do-figado/<br>
+https://www.tuasaude.com/funcao-do-figado/<br>
+https://brasilescola.uol.com.br/biologia/o-figado.htm<br>
