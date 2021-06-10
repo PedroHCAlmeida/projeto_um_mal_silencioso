@@ -53,6 +53,12 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Qual região brasileira apresenta maior taxa de incidência da Hepatite?
 * Qual região brasileira apresenta maior taxa de óbitos de Hepatite?
 
+# Estrutura do projeto
+## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
+## [Dados Limpos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_limpos):
+## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
+## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
+
 # Conclusões 
 
 
@@ -62,11 +68,6 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 * Matplotlib versão 3.1.3 : biblioteca usada para visualização de dados
 * Seaborn versão 0.10.0 : biblioteca baseada no Matplotlib para visualização de gráficos estatísticos mais complexos
 * Re versão 2.2.1 : biblioteca usada para manipulação de strings usando 'regular expressions'
-# Estrutura do projeto
-## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
-## [Dados Limpos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_limpos):
-## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
-## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
 
 # Agradecimentos
 
@@ -76,3 +77,8 @@ https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
 https://hepatogastro.com.br/importancia-da-saude-do-figado/<br>
 https://www.tuasaude.com/funcao-do-figado/<br>
 https://brasilescola.uol.com.br/biologia/o-figado.htm<br>
+https://www.mdsaude.com/gastroenterologia/hepatites/<br>
+https://www.megaimagem.com.br/blog/hepatites-virais-causas-e-diagnosticos/<br>
+http://giv.org.br/Hepatites-Virais/Hepatite-C/index.html<br>
+http://www.aids.gov.br/pt-br/publico-geral/hv/o-que-sao-hepatites-virais<br>
+https://www.saude.pr.gov.br/Pagina/Hepatites-virais<br>
