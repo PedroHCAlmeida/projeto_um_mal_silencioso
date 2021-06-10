@@ -11,14 +11,14 @@ def limpa_casos_h(dados:pd.DataFrame, hep:str):
         
         Retira as colunas que agrupam diversos anos, coluna 'Total' e coluna '1999-2006'
         Retira a segunda linha do dataframe que se refere à taxa de incidência e, primeiramente serão usados apenas os dados de casos totais para juntar os dados recentes e mais antigos
-        Transforma a disposição da tabela, transformando as colunas em apenas uma coluna('Ano') atribuindo a classe viral da hepatite(A,B,C) como nome da coluna de valores numéricos
+        Transforma a disposição da tabela, transformando as colunas em apenas uma coluna('Ano') atribuindo o vírus da hepatite(A,B,C) como nome da coluna de valores numéricos
         Retira a primeira linha que antes se referia ao nome da variável numérica('Casos')
         Transforma o tipo de dados da coluna 'Ano' em inteiro e a coluna com os dados numéricos para float(podem haver valores nulos) para depois facilitar a manipulação e evitar problemas  
         
     Parâmetros:
         
         dados : DataFrame onde estão os dados mais recentes dos casos de hepatite, tipo : pd.DataFrame
-        hep : a classe viral da hepatite que o DataFrame se refere, tipo : str
+        hep : o vírus da hepatite que o DataFrame se refere, tipo : str
     
     Retorno:
         
@@ -37,11 +37,11 @@ def limpa_casos_h(dados:pd.DataFrame, hep:str):
 def limpa_casos_regiao(dados_hep_A:pd.DataFrame, dados_hep_B:pd.DataFrame, dados_hep_C:pd.DataFrame, regiao:str):
     
     '''
-    Função que recebe os DataFrames relacionados à cada classe_viral de uma região especifíca e realiza algumas transformações:
+    Função que recebe os DataFrames relacionados à cada virus de uma região especifíca e realiza algumas transformações:
         
-        Chama a função 'limpa_casos_h' para cada tipo de classe viral para realizar uma limpeza em cada DataFrame 
-        Junta os dados de todas as classes virais(A, B, C)
-        Transforma as colunas relacionadas à classe viral em apenas uma coluna('Classe_viral') e atribui a 'regiao' como nome da coluna com os valore numéricos
+        Chama a função 'limpa_casos_h' para cada tipo de vírus para realizar uma limpeza em cada DataFrame 
+        Junta os dados de todas os vírus(A, B, C)
+        Transforma as colunas relacionadas ao vírus em apenas uma coluna('virus') e atribui a 'regiao' como nome da coluna com os valore numéricos
     
     Parâmetros:
     
@@ -59,18 +59,18 @@ def limpa_casos_regiao(dados_hep_A:pd.DataFrame, dados_hep_B:pd.DataFrame, dados
     hep_B = limpa_casos_h(dados_hep_B, 'B')
     hep_C = limpa_casos_h(dados_hep_C, 'C')
     dados = pd.merge(hep_A, pd.merge(hep_B, hep_C))
-    dados = pd.melt(dados,'Ano', var_name='Classe_viral', value_name=regiao)
+    dados = pd.melt(dados,'Ano', var_name='virus', value_name=regiao)
     
     return dados
 
 def limpa_obitos(dados, nome_valores):
     
     '''
-    Função que recebe o DataFrame relacionado aos óbitos de cada classe_viral e realiza algumas transformações:
+    Função que recebe o DataFrame relacionado aos óbitos de cada virus e realiza algumas transformações:
         
         Retira as colunas que agrupam diversos anos, coluna 'Total' e coluna '2000-2006' 
-        Retira a palavra 'Hepatite' antes da classe viral(A,B,C)
-        Renomeia a coluna Óbitos por Classe_viral
+        Retira a palavra 'Hepatite' antes do vírus(A,B,C)
+        Renomeia a coluna Óbitos por virus
         Retira os dados relacionados à Hepatite D
         Transforma as colunas relacionadas aos Anos em apenas uma coluna('Ano') e atribui o 'nome_valores' como nome da coluna com os valores numéricos
         Trasnforma o tipo de dados da coluna 'Ano' em inteiro e a coluna com os dados numéricos para float(podem haver valores nulos) a fim de evitar problemas e facilitar a manipulação
@@ -87,9 +87,9 @@ def limpa_obitos(dados, nome_valores):
     
     dados = dados.drop(columns=['Total','2000-2006'])
     dados['Óbitos'] = dados.replace(r'Hepatite\s', '', regex=True)
-    dados = dados.rename(columns={'Óbitos':'Classe_viral'})
+    dados = dados.rename(columns={'Óbitos':'virus'})
     dados = dados.drop(index=3)
-    dados = pd.melt(dados, 'Classe_viral', var_name='Ano', value_name=nome_valores)
+    dados = pd.melt(dados, 'virus', var_name='Ano', value_name=nome_valores)
     dados['Ano'] = dados['Ano'].astype('int64')
     dados[nome_valores] = dados[nome_valores].astype('float64')
     
@@ -102,8 +102,8 @@ def limpa_vacinas_dados(dados:pd.DataFrame, nome_valores:str):
         
         Retira as linhas que se referem aos dados totais e aos dados mais recentes de 2021 pois o ano ainda não acabou
         Retira a palavra 'Hepatite' antes do nome das colunas
-        Renomeia a coluna Óbitos por Classe_viral
-        Transforma as colunas relacionadas à Classe_viral em apenas uma coluna('Classe_viral') e atribui o 'nome_valores' como nome da coluna com os valores numéricos
+        Renomeia a coluna Óbitos por virus
+        Transforma as colunas relacionadas à virus em apenas uma coluna('virus') e atribui o 'nome_valores' como nome da coluna com os valores numéricos
     
     Parâmetros:
     
@@ -118,12 +118,12 @@ def limpa_vacinas_dados(dados:pd.DataFrame, nome_valores:str):
     dados = dados[(dados['Ano'] != 'Total') & (dados['Ano'] != '2021')]
     dados = dados.rename(columns=lambda x:re.sub(r'.*Hepatite A.*','A',x))
     dados = dados.rename(columns=lambda x:re.sub(r'.*Hepatite B.*','B',x))
-    dados = pd.melt(dados, 'Ano', var_name='Classe_viral', value_name=nome_valores)
+    dados = pd.melt(dados, 'Ano', var_name='virus', value_name=nome_valores)
     return dados
 
 def plota_grafico(dados: pd.DataFrame, x: str, y:str, hue=None, title='', subtitle=None, xlabel=None, ylabel=None, dict_hue_palette=None, palette_sns=None,formatter_x=None,
                   formatter_y=None,file_name=None, xlim=None, ylim=None, hue_legend=None,style='darkgrid', show=True, ax=None, color_xlabel='dimgray', color_ylabel='dimgray',
-                 color_title='black', color_sub='dimgray', color_xticks='dimgray', color_yticks='dimgray', legend=False, legend_title='', title_loc='left', kind='line', por_ano=False, **kwargs):
+                 color_title='black', color_sub='dimgray', color_xticks='dimgray', color_yticks='dimgray', legend=False, legend_title='', title_loc='left', kind='line', intervalo_ano=None, **kwargs):
     '''
     
     Função que plota um gráfico entre duas variáveis, podendo ser um 'lineplot' do seaborn, 'scatterplot' ou um 'barplot' do seaborn
@@ -159,7 +159,7 @@ def plota_grafico(dados: pd.DataFrame, x: str, y:str, hue=None, title='', subtit
             show : operador lógico para mostrar o gráfico ou não, tipo : boolean(True or False), padrão : True
             ax : eixo se já existir, tipo : matplotlib.pyplot, padrão : Mone
             kind : tipo do gráfico se é um gráfico de linha ou um scatterplot, tipo : str('line' ,'scatter' ou 'bar'), padrão : 'line'
-            por_ano : operador lógico se o eixo x será mostrado ano a ano ou não, obs:a coluna relacionada ao ano precisa estar no eixo x e ser do tipo int, tipo : boolean, padrão : False 
+            intervalo_ano : intervalo dos anos mostrado no eixo, obs:a coluna relacionada ao ano precisa estar no eixo x e ser do tipo int, tipo : int, padrão : None 
             **kwargs : argumentos adicionais para incrementar a chamada do gráfico 'lineplot' ou 'scatterplot' do seaborn
     '''
     
@@ -197,8 +197,8 @@ def plota_grafico(dados: pd.DataFrame, x: str, y:str, hue=None, title='', subtit
 
         
     #Verificando se o eixo x se refere ao ano para mostrar todos os anos 
-    if por_ano == True and dados[x].dtypes == 'int64':
-        plt.xticks(range(int(min(dados[x])),int(max(dados[x]+1))), range(int(min(dados[x])),int(max(dados[x]+1))), fontsize=15, color=color_xticks)
+    if intervalo_ano != None and dados[x].dtypes == 'int64':
+        plt.xticks(range(int(min(dados[x])),int(max(dados[x]+1)), intervalo_ano), range(int(min(dados[x])),int(max(dados[x]+1)), intervalo_ano), fontsize=15, color=color_xticks)
     else:
         plt.xticks(fontsize=12, color=color_xticks)
     

@@ -1,4 +1,4 @@
-Ano,Classe_viral,Regiao,Casos,Obitos,Pop,taxa_incid_por100k,taxa_obitos_por100k
+Ano,virus,Regiao,Casos,Obitos,Pop,taxa_incid_por100k,taxa_obitos_por100k
 2001,A,Norte,2868.0,,13245084.0,21.653316807956823,
 2001,B,Norte,820.0,,13245084.0,6.1909762142693845,
 2001,C,Norte,287.0,,13245084.0,2.1668416749942847,
