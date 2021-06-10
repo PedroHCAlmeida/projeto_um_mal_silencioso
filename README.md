@@ -38,6 +38,7 @@ Além disso o maior problema da Hepatite C é que como ela evolui muito facilmen
 ## Mal Silencioso
 
 Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, com medicamentos capazes de curar a infecção e impedir a progressão da doença, que também é oferecido gratuitamente pelo SUS.
+ 
 # Perguntas a serem respondidas
 
 
