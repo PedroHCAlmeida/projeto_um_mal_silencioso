@@ -42,10 +42,10 @@ O maior problema da Hepatite B é que 5 a 10% das pessoas nunca se curam pois de
 
 # Tecnologias utilizadas
 Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através do jupyter lab versão 1.2.6, as bibliotecas usadas foram:
-* pandas : versão 1.0.1
-* matplotlib : versão 3.1.3
-* seaborn : versão 0.10.0
-* re : versão 2.2.1
+* Pandas versão 1.0.1
+* Matplotlib versão 3.1.3
+* Seaborn versão 0.10.0
+* Re versão 2.2.1
 # Estrutura do projeto
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
 ## [Dados Limpos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_limpos):
