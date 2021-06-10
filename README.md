@@ -58,10 +58,10 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 # Tecnologias utilizadas
 Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através do jupyter lab versão 1.2.6, as bibliotecas usadas foram:
-* Pandas versão 1.0.1
-* Matplotlib versão 3.1.3
-* Seaborn versão 0.10.0
-* Re versão 2.2.1
+* Pandas versão 1.0.1 : biblioteca rápida e poderosa usada para manipulação de dados
+* Matplotlib versão 3.1.3 : biblioteca usada para visualização de dados
+* Seaborn versão 0.10.0 : biblioteca baseada no Matplotlib para visualização de gráficos estatísticos mais complexos
+* Re versão 2.2.1 : biblioteca usada para manipulação de strings usando 'regular expressions'
 # Estrutura do projeto
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
 ## [Dados Limpos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_limpos):
