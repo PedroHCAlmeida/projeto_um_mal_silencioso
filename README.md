@@ -27,11 +27,13 @@ A hepatite A possui _**cura**_ e existe _**vacina**_, a mesma é eficaz em cerca
 
 A Hepatite B, transmitida pelo vírus B(HBV), tem um risco maior que a Hepatite A de desenvolver a _**hepatite crônica**_ , que a longo prazo pode acarretar diversos problemas como cirrose, falência hepática e câncer hepático, esse risco aumenta ainda mais em pessoas com a idade mais avançada, alto consumo de álcool, tabagismo e imunossupressão.A hepatite B é transmitida habitualmente por contato sexual, transfusão sanguínea ou por agulhas contaminadas, podendo ocorrer até em tatuagens, piercings e acupuntura.
 
-O maior problema da Hepatite B é que 5 a 10% das pessoas nunca se curam pois desenvolvem a doença crônica, e outro fator que agrava mais a situação é que por nem sempre apresentarem sintomas, grande parte das pessoas _**desconhecem ter a infecção**_. Isso faz com que a doença possa evoluir por décadas sem o devido diagnóstico.Além disso por mais que a Hepatite B possua esses riscos, atualmente existe a _**vacina**_ e faz parte do calendário básico do [Projeto Nacional de Imunização(PNI)] oferecido pelo Sistema Único de Saúde(SUS), e portanto é de extrema importância essa vacinação desde criança. 
+O maior problema da Hepatite B é que 5 a 10% das pessoas nunca se curam pois desenvolvem a doença crônica, e outro fator que agrava mais a situação é que por nem sempre apresentarem sintomas, grande parte das pessoas _**desconhecem ter a infecção**_. Isso faz com que a doença possa evoluir por décadas sem o devido diagnóstico.Além disso por mais que a Hepatite B possua esses riscos, atualmente existe a _**vacina**_ e faz parte do calendário básico do Projeto Nacional de Imunização(PNI) oferecido pelo Sistema Único de Saúde(SUS), e portanto é de extrema importância essa vacinação desde criança. 
 
 ## Hepatite C
 
+A hepatite C, causada pelo vírus C(HCV), é a maior causa de doença crônica do fígado, sua transmissão ocorre por meio de compartilhamento de agulhas, objetos cortantes(podendo ser equipamentos médicos, tatuagem, piercing e até alicate de unha), além da transmissão na gestação da mãe para o filho. A grande tragédia da hepatite C é que seu vírus só foi reconhecido no início da década de 1990 e por mais que exista tratamento,  até os dias atuais _**não existe uma vacina**_ contra esse vírus, ou seja, ninguém está livre de contrair o vírus.
 
+Além disso o maior problema da Hepatite C é que como ela evolui muito facilmente para fase crônica e ela não costuma apresentar sintomas agressivos, _**a maior parte das pessoas desconhecem sua infecção**_ e por esta razão as pessoas demoram para descobrir essa infecção, logo esse vírus permanece atacando o fígado da pessoa podendo evoluir para cirrose hepática, carcinoma hepatocelular (CHC), descompensação hepática, podendo ser fatal.
 
 # Perguntas a serem respondidas
 
