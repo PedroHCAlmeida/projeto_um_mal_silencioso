@@ -37,11 +37,21 @@ Além disso o maior problema da Hepatite C é que como ela evolui muito facilmen
 
 ## Mal Silencioso
 
-Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, com medicamentos capazes de curar a infecção e impedir a progressão da doença, que também é oferecido gratuitamente pelo SUS.
+Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, que também é oferecido gratuitamente pelo SUS, com medicamentos capazes de curar a infecção e impedir a progressão da doença.
  
 # Perguntas a serem respondidas
 
+O intuito do projeto será relizar análises a fim de responder certas perguntas relacionadas a Hepatite no Brasil, são elas:
 
+* Qual a Hepatite Viral mais comum no Brasil atualmente?
+* Qual a Hepatite que mais mata pessoas por ano?
+* Alguma Hepatite está aumentando nos últimos anos?
+* Qual a taxa de incidência, relativa à população, de Hepatite no Brasil?
+* Qual a taxa de óbitos, relativa à população, de Hepatite no Brasil?
+* Qual região brasileira mais apresenta casos de Hepatite por ano?
+* Qual região brasileira mais apresenta óbitos por Hepatite por ano?
+* Qual região brasileira apresenta maior taxa de incidência da Hepatite?
+* Qual região brasileira apresenta maior taxa de óbitos de Hepatite?
 
 # Conclusões 
 
