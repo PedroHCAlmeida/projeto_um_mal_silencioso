@@ -35,6 +35,9 @@ A hepatite C, causada pelo vírus C(HCV), é a maior causa de doença crônica d
 
 Além disso o maior problema da Hepatite C é que como ela evolui muito facilmente para fase crônica e ela não costuma apresentar sintomas agressivos, _**a maior parte das pessoas desconhecem sua infecção**_ e por esta razão as pessoas demoram para descobrir essa infecção, logo esse vírus permanece atacando o fígado da pessoa podendo evoluir para cirrose hepática, carcinoma hepatocelular (CHC), descompensação hepática, podendo ser fatal.
 
+## Mal Silencioso
+
+Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, com medicamentos capazes de curar a infecção e impedir a progressão da doença, que também é oferecido gratuitamente pelo SUS.
 # Perguntas a serem respondidas
 
 
