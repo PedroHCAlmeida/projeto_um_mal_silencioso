@@ -1,8 +1,8 @@
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
-from matplotlib import ticker
 import re
+from functools import wraps
 
 def limpa_casos_h(dados:pd.DataFrame, hep:str):
     
@@ -247,16 +247,18 @@ def plota_grafico(dados: pd.DataFrame, x: str, y:str, hue=None, title='', subtit
         #Mostrando o gráfico
         plt.show()
 
-@ticker.FuncFormatter
+
 def thousand_formatter(x, pos):
     '''
-    Função responsável por formatar um eixo do 'matplotlib' dividindo os valores por Mil, mostrando duas casas decimais depois da vírgula e colocando a palavra 'Mil' após os valores indicando a grandeza
+    Função responsável por formatar um eixo do 'matplotlib' dividindo os valores por Mil, mostrando duas casas decimais depois da vírgula e colocando a palavra 'Mil' após os valores indicando a grandeza,
+    precisa ser passada como parâmetro para a função FuncFormatter do matplotlib.ticker
     '''
+   
     return "%.2f Mil" % (x/1E3)
 
-@ticker.FuncFormatter
 def million_formatter(x, pos):
     '''
-    Função responsável por formatar um eixo do 'matplotlib' dividindo os valores por Milhão, mostrando duas casas decimais depois da vírgula e colocando a palavra 'Mi' após os valores indicando a grandeza
+    Função responsável por formatar um eixo do 'matplotlib' dividindo os valores por Milhão, mostrando duas casas decimais depois da vírgula e colocando a palavra 'Mi' após os valores indicando a grandeza,
+    precisa ser passada como parâmetro para a função FuncFormatter do matplotlib.ticker
     '''
     return "%.2f Mi" % (x/1E6)
