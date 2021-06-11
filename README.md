@@ -55,7 +55,7 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 # Estrutura do projeto
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
-## [Dados Limpos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_limpos):
+## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
 ## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
 ## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
 
