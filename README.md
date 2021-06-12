@@ -55,6 +55,29 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 # Estrutura do projeto 🧱
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
+Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em 13 arquivos, 6 .csv e 7 .xls, obtidos de 3 fontes de dados, são eles:
+
+* arquivo .csv obtido do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre os casos e óbitos de Hepatite no Brasil todo:
+[casos_hepatite_2001-2006_brasil.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/casos_hepatite_2001-2006_brasil.csv) : arquivo csv com dados de casos de Hepatite entre 2001 e 2006<br>
+* 3 arquivos .csv obtidos do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre os casos e óbitos de Hepatite por região:<br>
+[casos_hepA_por_regiao.csv](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/casos_hepA_por_regiao.csv) : arquivo csv com os dados de casos e óbitos de Hepatite A por região entre 2001 e 2006<br>
+[casos_hepB_por_regiao.csv](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/casos_hepB_por_regiao.csv) : arquivo csv com os dados de casos e óbitos de Hepatite B por região entre 2001 e 2006<br>
+[casos_hepC_por_regiao.csv](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/casos_hepC_por_regiao.csv) : arquivo csv com os dados de casos e óbitos de Hepatite C por região entre 2001 e 2006<br>
+* 2 arquivos .csv obtidos do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre cobertura de vacinação e doses aplicadas das vacinas contra Hepatite B e Hepatite A:<br>
+[cobertura_vacina_hep.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/cobertura_vacina_hep.csv) : dados relacionados à cobertura das vacinas contra Hepatite B e Hepatite A, a fórmula de cálculo da cobertura é o número de doses aplicadas da dose indicada (1ª, 2ª, 3ª dose ou dose única, conforme a vacina) dividida pela população alvo, multiplicado por 100<br>
+[vacina_hepatite.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/vacina_hepatite.csv) : dados relacionados aos totais de doses aplicadas das vacinas contra Hepatite B e Hepatite A<br>
+* arquivo .xls com dados de casos e óbitos de HEpatite dos [indicadores de Hepatite do governo](http://indicadoreshepatites.aids.gov.br/) no Brasil todo:<br>
+[MonitoramentoHepatites-Brasil.xls](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Brasil.xls) : arquivo xls com diversas tabelas relacionados aos dados de casos e óbitos de Hepatite no Brasil entre 2007 e 2019<br>
+* 5 arquivos .xls com dados de casos e óbitos dos [indicadores de Hepatite do governo](http://indicadoreshepatites.aids.gov.br/) em cada região:<br>
+[MonitoramentoHepatites-Norte.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Norte.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Norte entre 2007 e 2019<br>
+[MonitoramentoHepatites-Nordeste.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Nordeste.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Nordeste entre 2007 e 2019<br>
+[MonitoramentoHepatites-Sul.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Sul.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Sul entre 2007 e 2019<br>
+[MonitoramentoHepatites-Sudeste.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Sudeste.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Sudeste entre 2007 e 2019<br>
+[MonitoramentoHepatites-Centro-Oeste.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Centro-Oeste.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Centro-Oeste entre 2007 e 2019<br>
+
+[serie_2001_2020_TCU_populacao.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
+[serie_2001_2020_TCU_populacao.xls](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
+
 ## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
 ## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
 ## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
