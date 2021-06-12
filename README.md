@@ -1,4 +1,4 @@
-# Projeto Um Mal Silencioso
+# Projeto Um Mal Silencioso🧫
 ![Alt text](https://veja.abril.com.br/wp-content/uploads/2017/02/hepatite-c-virus-ilustracao.jpg)
 # Introdução
 
