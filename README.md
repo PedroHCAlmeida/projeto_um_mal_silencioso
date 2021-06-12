@@ -18,18 +18,18 @@ O fígado é é considerado um dos maiores órgãos do corpo humano, ele é resp
 
 Vários vírus podem causar quadros de inflamação do fígado, ou seja, hepatite. Porém, as chamadas hepatites virais são apenas aquelas causadas por _**vírus que atacam preferencialmente o fígado**_, portanto, até hoje foram descobertas 5 hepatites virais causadas por diferentes vírus, sendo elas a Hepatite A, B, C, D e E, porém as duas últimas(D e E) não são tão comuns no Brasil e portanto nesse projeto o foco será na _**Hepatite A, B e C**_.
 
-## Hepatite A
+## Hepatite A 🅰️
 
 Causada pelo vírus A (HAV) da hepatite, a Hepatite A ,na maioria dos casos, é uma doença de caráter benigno e raramente provoca hepatite crônica, contudo sua letalidade aumenta com a idade podendo provocar sintomas de hepatite aguda em pessoas mais velhas. Sua transmissão é fecal-oral, por contato entre indivíduos ou por meio de água ou alimentos contaminados pelo vírus.
 A hepatite A possui _**cura**_ e existe _**vacina**_, a mesma é eficaz em cerca de 95% dos casos, dura pelo menos quinze anos e, possivelmente, a vida inteira da pessoa.
 
-## Hepatite B
+## Hepatite B 🅱️
 
 A Hepatite B, transmitida pelo vírus B(HBV), tem um risco maior que a Hepatite A de desenvolver a _**hepatite crônica**_ , que a longo prazo pode acarretar diversos problemas como cirrose, falência hepática e câncer hepático, esse risco aumenta ainda mais em pessoas com a idade mais avançada, alto consumo de álcool, tabagismo e imunossupressão.A hepatite B é transmitida habitualmente por contato sexual, transfusão sanguínea ou por agulhas contaminadas, podendo ocorrer até em tatuagens, piercings e acupuntura.
 
 O maior problema da Hepatite B é que 5 a 10% das pessoas nunca se curam pois desenvolvem a doença crônica, e outro fator que agrava mais a situação é que por nem sempre apresentarem sintomas, grande parte das pessoas _**desconhecem ter a infecção**_. Isso faz com que a doença possa evoluir por décadas sem o devido diagnóstico.Além disso por mais que a Hepatite B possua esses riscos, atualmente existe a _**vacina**_ e faz parte do calendário básico do Projeto Nacional de Imunização(PNI) oferecido pelo Sistema Único de Saúde(SUS), e portanto é de extrema importância essa vacinação desde criança. 
 
-## Hepatite C
+## Hepatite C 👀
 
 A hepatite C, causada pelo vírus C(HCV), é a _**maior causa de doença crônica do fígado**_, sua transmissão ocorre por meio de compartilhamento de agulhas, objetos cortantes(podendo ser equipamentos médicos, tatuagem, piercing e até alicate de unha), além da transmissão na gestação da mãe para o filho. A grande tragédia da hepatite C é que seu vírus só foi reconhecido no início da década de 1990 e por mais que exista tratamento,  até os dias atuais _**não existe uma vacina**_ contra esse vírus, ou seja, ninguém está livre de contrair o vírus.
 
