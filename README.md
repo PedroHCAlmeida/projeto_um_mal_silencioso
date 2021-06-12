@@ -85,3 +85,4 @@ https://www.saude.pr.gov.br/Pagina/Hepatites-virais<br>
 https://www.gov.br/saude/pt-br/assuntos/noticias/sus-disponibiliza-18-vacinas-para-criancas-e-adolescentes<br>
 http://www.planassiste.mpu.mp.br/news/governo-inclui-vacina-contra-hepatite-a-no-calendario-do-sus<br>
 https://portalarquivos.saude.gov.br/campanhas/vivamaissus/hepatite_interna.html<br>
+https://www.scielo.br/j/sausoc/a/gn7vpPFZYBHq6s6JVtHCHbw/?lang=pt#<br>
