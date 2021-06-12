@@ -82,3 +82,6 @@ https://www.megaimagem.com.br/blog/hepatites-virais-causas-e-diagnosticos/<br>
 http://giv.org.br/Hepatites-Virais/Hepatite-C/index.html<br>
 http://www.aids.gov.br/pt-br/publico-geral/hv/o-que-sao-hepatites-virais<br>
 https://www.saude.pr.gov.br/Pagina/Hepatites-virais<br>
+https://www.gov.br/saude/pt-br/assuntos/noticias/sus-disponibiliza-18-vacinas-para-criancas-e-adolescentes<br>
+http://www.planassiste.mpu.mp.br/news/governo-inclui-vacina-contra-hepatite-a-no-calendario-do-sus<br>
+https://portalarquivos.saude.gov.br/campanhas/vivamaissus/hepatite_interna.html<br>
