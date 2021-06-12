@@ -45,7 +45,8 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 * Qual a Hepatite Viral mais comum no Brasil atualmente?
 * Qual a Hepatite que mais mata pessoas por ano?
-* Alguma Hepatite está aumentando nos últimos anos?
+* Quando começou a vacinação ampla contra a Hepatite B?
+* Quando começou a vacinação ampla contra a Hepatite A?
 * Qual a taxa de incidência, relativa à população, de Hepatite no Brasil?
 * Qual a taxa de óbitos, relativa à população, de Hepatite no Brasil?
 * Qual região brasileira mais apresenta casos de Hepatite por ano?

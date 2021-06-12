@@ -45,7 +45,8 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 * Qual a Hepatite Viral mais comum no Brasil atualmente?
 * Qual a Hepatite que mais mata pessoas por ano?
-* Alguma Hepatite está aumentando nos últimos anos?
+* Quando começou a vacinação ampla contra a Hepatite B?
+* Quando começou a vacinação ampla contra a Hepatite A?
 * Qual a taxa de incidência, relativa à população, de Hepatite no Brasil?
 * Qual a taxa de óbitos, relativa à população, de Hepatite no Brasil?
 * Qual região brasileira mais apresenta casos de Hepatite por ano?
@@ -82,6 +83,3 @@ https://www.megaimagem.com.br/blog/hepatites-virais-causas-e-diagnosticos/<br>
 http://giv.org.br/Hepatites-Virais/Hepatite-C/index.html<br>
 http://www.aids.gov.br/pt-br/publico-geral/hv/o-que-sao-hepatites-virais<br>
 https://www.saude.pr.gov.br/Pagina/Hepatites-virais<br>
-https://www.gov.br/saude/pt-br/assuntos/noticias/sus-disponibiliza-18-vacinas-para-criancas-e-adolescentes<br>
-http://www.planassiste.mpu.mp.br/news/governo-inclui-vacina-contra-hepatite-a-no-calendario-do-sus<br>
-https://portalarquivos.saude.gov.br/campanhas/vivamaissus/hepatite_interna.html<br>
