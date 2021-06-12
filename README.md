@@ -4,7 +4,7 @@
 
 Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projeto final do módulo 2 do [Bootcamp De Data Science Aplicada](https://www.alura.com.br/bootcamp/data-science-aplicada/matriculas-abertas) promovido pela [Alura](https://www.alura.com.br/) sobre Visualização de dados com Seaborn e Matplotlib.O objetivo desse projeto foi utilizar dados do [Projeto Nacional de Imunização(PNI)](http://tabnet.datasus.gov.br/cgi/tabcgi.exe?pni/cnv/cpniuf.def) em conjunto com outras bases de dados a fim de contar uma história com esses dados, eu optei por explorar os dados sobre a vacinação contra a Hepatite e analisar os casos e óbitos no Brasil a partir de [dados do SUS](https://datasus.saude.gov.br/informacoes-de-saude-tabnet/)(Sistema Único de Saúde).
 
-# Hepatites <img scr="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/joypixels/275/microbe_1f9a0.png" width=200 height=200>
+# Hepatites🦠
 
 ## O que são as Hepatites
 
