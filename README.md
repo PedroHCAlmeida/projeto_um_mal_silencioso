@@ -39,7 +39,7 @@ Além disso o maior problema da Hepatite C é que como ela evolui muito facilmen
 
 Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, que também é oferecido gratuitamente pelo SUS, com medicamentos capazes de curar a infecção e impedir a progressão da doença.
  
-# Perguntas a serem respondidas
+# Perguntas a serem respondidas 🤔
 
 O intuito do projeto será relizar análises a fim de responder certas perguntas relacionadas a Hepatite no Brasil, são elas:
 
@@ -53,25 +53,25 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Qual região brasileira apresenta maior taxa de incidência da Hepatite?
 * Qual região brasileira apresenta maior taxa de óbitos de Hepatite?
 
-# Estrutura do projeto
+# Estrutura do projeto 🧱
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
 ## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
 ## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
 ## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
 
-# Conclusões 
+# Conclusões 💡
 
 
-# Tecnologias utilizadas
+# Tecnologias utilizadas 💻
 Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através do jupyter lab versão 1.2.6, as bibliotecas usadas foram:
 * Pandas versão 1.0.1 : biblioteca rápida e poderosa usada para manipulação de dados
 * Matplotlib versão 3.1.3 : biblioteca usada para visualização de dados
 * Seaborn versão 0.10.0 : biblioteca baseada no Matplotlib para visualização de gráficos estatísticos mais complexos
 * Re versão 2.2.1 : biblioteca usada para manipulação de strings usando 'regular expressions'
 
-# Agradecimentos
+# Agradecimentos 😀
 
-# Referências bibliográficas
+# Referências bibliográficas 📚
 
 https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
 https://hepatogastro.com.br/importancia-da-saude-do-figado/<br>
