@@ -50,12 +50,13 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Existe uma relação entre as doses aplicadas das vacinas contra a Hepatite B e as taxas de incidência e óbitos?
 * Quando começou a vacinação ampla contra a Hepatite A?
 * Existe uma relação entre as doses aplicadas da vacina contra a Hepatite A e as taxas de incidência e óbitos?
-* Qual a taxa de óbitos, relativa à população, de Hepatite no Brasil?
+* Como se comporta a taxa de incidência, relativa à população, de cada Hepatite nos últimos anos?
+* Como se comporta a taxa de óbitos, relativa à população, de cada Hepatite nos últimos anos?
 * Qual região brasileira mais apresenta casos e óbitos de Hepatite por ano?
 * Como se comporta a taxa de incidência, relativa à população, de cada Hepatite em cada região nos últimos anos?
 * Como se comporta a taxa de óbitos, relativa à população, de cada Hepatite em cada região nos últimos anos?
 * Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias das Hepatites?
-* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias da Hepatite C?
+* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias para cada Hepatite?
 
 # Estrutura do projeto 🧱
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
@@ -69,7 +70,7 @@ Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em
 [casos_hepC_por_regiao.csv](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/casos_hepC_por_regiao.csv) : arquivo csv com os dados de casos e óbitos de Hepatite C por região entre 2001 e 2006<br>
 * 2 arquivos .csv obtidos do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre cobertura de vacinação e doses aplicadas das vacinas contra Hepatite B e Hepatite A:<br>
 [cobertura_vacina_hep.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/cobertura_vacina_hep.csv) : dados relacionados à cobertura das vacinas contra Hepatite B e Hepatite A, a fórmula de cálculo da cobertura é o número de doses aplicadas da dose indicada (1ª, 2ª, 3ª dose ou dose única, conforme a vacina) dividida pela população alvo, multiplicado por 100<br>
-[vacina_hepatite.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/vacina_hepatite.csv) : dados relacionados aos totais de doses aplicadas das vacinas contra Hepatite B e Hepatite A<br>
+[vacinas_hepatite.csv](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/vacinas_hepatite.csv) : dados relacionados aos totais de doses aplicadas das vacinas contra Hepatite B e da vacina contra a Hepatite A<br>
 * arquivo .xls com dados de casos e óbitos de HEpatite dos [indicadores de Hepatite do governo](http://indicadoreshepatites.aids.gov.br/) no Brasil todo:<br>
 [MonitoramentoHepatites-Brasil.xls](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Brasil.xls) : arquivo xls com diversas tabelas relacionados aos dados de casos e óbitos de Hepatite no Brasil entre 2007 e 2019<br>
 * 5 arquivos .xls com dados de casos e óbitos dos [indicadores de Hepatite do governo](http://indicadoreshepatites.aids.gov.br/) em cada região:<br>
@@ -78,11 +79,14 @@ Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em
 [MonitoramentoHepatites-Sul.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Sul.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Sul entre 2007 e 2019<br>
 [MonitoramentoHepatites-Sudeste.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Sudeste.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Sudeste entre 2007 e 2019<br>
 [MonitoramentoHepatites-Centro-Oeste.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/MonitoramentoHepatites-Centro-Oeste.xls) : arquivo xls com várias tabelas relacionadas aos casos e óbitos de Hepatites da região Centro-Oeste entre 2007 e 2019<br>
-
+* arquivo .xls com estimativas populacionais realizadas pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao.html) entre 2001 e 2020 por unidade federativa:
 [serie_2001_2020_TCU_populacao.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
-[serie_2001_2020_TCU_populacao.xls](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
 
 ## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
+Aqui se encontram os dados que foram tratados para realizar a [análise final](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/Analise_final.ipynb), esses dados se encontram em 3 arquivos .csv, são eles:<br>
+* [casos_obitos_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_hep): dados sobre o número de casos e óbitos das Hepatites A, B e C por ano, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
+* [casos_obitos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_por_regiao): dados sobre o número de casos e óbitos das Hepatites A, B e C por ano e por região, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
+* [vacinas_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/vacinas_hep): dados sobre a cobertura de vacinação contra a Hepatite A e B, e a soma das doses aplicadas das vacinas contra Hepatite B(HB, pentavalente e hexavalente) e da vacina contra a Hepatite A <br>
 ## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
 ## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
 
