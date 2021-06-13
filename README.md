@@ -92,6 +92,23 @@ Aqui se encontram os dados que foram tratados para realizar a [análise final](h
 
 # Conclusões 💡
 
+:
+* O vírus HCV é a responsável pela maior quantidade de casos de hepatite desde 2008 no Brasil
+* O vírus HAV da hepatite A vem baixando ao longo do tempo desde 2006 no Brasil, o que pode ser advindo de um investimento melhor em saneamento básico
+* A hepatite C é a hepatite que _**mais matou**_ no Brasil em todo o período de 2007 e 2018 
+* A hepatite C é a hepatite mais _**letal**_, em que _**8,13%**_ das pessoas infectadas morrem
+* A vacina da hepatite B teve seu pico de imunização no final dos anos 1990 e início dos anos 2000
+* No ano onde mais foram aplicadas doses de vacinas contra a Hepatite B foi o ano que a taxa de incidência por 100 mil habitantes obteve o menor valor entre 2001 e 2019
+* A vacinação ampla da hepatite A começou a partir do ano de 2014, e os anos seguintes foram os anos onde menos se teve casos de infecção do vírus e menos teve mortes relacionadas a essa infecção
+* A região _**Sul**_ é a que apresentou maior média de casos(entre 2001 e 2019) e óbitos(entre 2007 e 2018) de hepatite 
+* A hepatite C teve a maior taxa de incidência na maior parte do período(entre 2001 e 2019) nas regiões Sul e Sudeste
+* A hepatite C teve a maior taxa de incidência na maior parte do período(entre 2001 e 2019) nas regiões Norte e Nordeste
+* A hepatite B teve a maior taxa de incidência na maior parte do período(entre 2001 e 2019) na região Centro-Oeste
+* A _**hepatite C**_ foi a que teve _**maior taxa de óbitos em todas as regiões**_ em todo o período de 2007 até 2018
+* A região Sul é a região que apresenta a maior taxa de incidência e de óbitos médios de todas as hepatites durante o período analisado 
+* A região Norte é a região que apresenta a maior taxa de incidência de hepatite A durante o período analisado 
+* A região Sul é a região que apresenta a maior taxa de óbitos de hepatite A, B e C durante o período analisado, tendo uma taxa de óbitos por hepatite C de _**3,79**_ a cada 100 mil habitantes 
+* A região Sul é a região que apresenta a maior taxa de incidência de hepatite B e C durante o período analisado
 
 # Tecnologias utilizadas 💻
 Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através do jupyter lab versão 1.2.6, as bibliotecas usadas foram:
