@@ -93,8 +93,8 @@ Nesta pasta se encontram os notebooks desenvolvidos no jupyter, esses notebooks 
 * [tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil.<br>
 * [tratamento_casos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil por região.<br>
 * [tratamento_vacina](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos as vacinas contra as hepatites no Brasil.<br>
-O outro notebook foi destinado à análise dos dados e as visualizações:<br>
 <br>
+O outro notebook foi destinado à análise dos dados e as visualizações:<br>
 * [Analise_final](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/Analise_fina.ipynb): notebook destinado à análise dos dados de hepatite A, B e C<br>
 <br>
 Além dos notebooks nessa pasta se encontra o arquivo [requirements.txt](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/requirements.txt), com a lista de todos os pacotes usados no projeto, afim de facilitar alguma reprodutibilidade.
