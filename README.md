@@ -56,7 +56,7 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Como se comporta a taxa de incidência, relativa à população, de cada Hepatite em cada região nos últimos anos?
 * Como se comporta a taxa de óbitos, relativa à população, de cada Hepatite em cada região nos últimos anos?
 * Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias das Hepatites?
-* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias da Hepatite C?
+* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias para cada Hepatite?
 
 # Estrutura do projeto 🧱
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
