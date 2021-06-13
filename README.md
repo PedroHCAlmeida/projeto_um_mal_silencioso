@@ -134,7 +134,7 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 
 Queria agradecer a todos da alura, aos professores Thiago Gonçalves e Guilherme Silveira, a todo pessoal do discord do bootcamp de Data Science Aplicada e aos projetos dos outros alunos que todos eles ajudam a melhorar e dão diversas inspirações. 
 
-# Referências bibliográficas 📚
+# Referências 📚
 
 https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
 https://hepatogastro.com.br/importancia-da-saude-do-figado/<br>
@@ -152,3 +152,4 @@ https://www.scielo.br/j/sausoc/a/gn7vpPFZYBHq6s6JVtHCHbw/?lang=pt#<br>
 http://tabnet.datasus.gov.br/cgi/pni/Imun_cobertura_desde_1994.pdf<br>
 https://www.storytellingwithdata.com/<br>
 https://github.com/diascarolina/healthcare-analysis<br>
+https://jtemporal.com/requirements-txt/
