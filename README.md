@@ -59,7 +59,7 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias para cada Hepatite?
 
 # Estrutura do projeto 🧱
-## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
+## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos)🗃️
 Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em 13 arquivos, 6 .csv e 7 .xls, obtidos de 3 fontes de dados, são eles:
 
 * arquivo .csv obtido do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre os casos e óbitos de hepatite no Brasil todo:
@@ -82,13 +82,13 @@ Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em
 * arquivo .xls com estimativas populacionais realizadas pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao.html) entre 2001 e 2020 por unidade federativa:
 [serie_2001_2020_TCU_populacao.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
 
-## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
+## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):🗂️
 Aqui se encontram os dados que foram tratados para realizar a [análise final](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/Analise_final.ipynb), esses dados se encontram em 3 arquivos .csv, são eles:<br>
 * [casos_obitos_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_hep): dados sobre o número de casos e óbitos das hepatite A, B e C por ano, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
 * [casos_obitos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_por_regiao): dados sobre o número de casos e óbitos das hepatites A, B e C por ano e por região, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
 * [vacinas_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/vacinas_hep): dados sobre a cobertura de vacinação contra a hepatite A e B, e a soma das doses aplicadas das vacinas contra hepatite B(HB, pentavalente e hexavalente) e da vacina contra a hepatite A <br>
-## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
-## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
+## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):📓
+## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):📊
 
 # Conclusões 💡
 
