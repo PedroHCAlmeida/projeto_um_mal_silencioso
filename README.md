@@ -132,6 +132,8 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 * Para mais informações de todas as versões utilizadas para replicação do projeto acesse o [requirements.txt](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/requirements.txt)
 # Agradecimentos 😀
 
+Queria agradecer a todos da alura, aos professores Thiago Gonçalves e Guilherme Silveira, a todo pessoal do discord do bootcamp de Data Science Aplicada e aos projetos dos outros alunos que todos eles ajudam a melhorar e dão diversas inspirações. 
+
 # Referências bibliográficas 📚
 
 https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
