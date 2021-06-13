@@ -6,7 +6,7 @@ Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projet
 
 # Hepatites🦠
 
-## O que são as Hepatites 🇭
+## O que são as Hepatites 💭
 
 A palavra hepatite vem do Grego “HEPAR”, que significa “fígado”, e a terminação “ITIS” foi adotada pelo linguajar médico para designar _**“doença inflamatória”**_, ou seja, uma hepatite é uma doença inflamatória que ataca o fígado e podem ser causadas por alguns remédios, álcool e outras drogas, doenças autoimunes, metabólicas e genéticas, porém nesse projeto o foco são as hepatites virais, que são aquelas infecções causadas por vírus.
 
