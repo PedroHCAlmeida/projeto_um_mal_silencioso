@@ -89,10 +89,10 @@ Aqui se encontram os dados que foram tratados para realizar a [análise final](h
 * [vacinas_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/vacinas_hep): dados sobre a cobertura de vacinação contra a hepatite A e B, e a soma das doses aplicadas das vacinas contra hepatite B(HB, pentavalente e hexavalente) e da vacina contra a hepatite A <br>
 ## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):📓
 
-Nesta pasta se encontram os notebooks desenvolvidos no jupyter, esses notebooks foram divididos em dois tipo, 3 deles destinados ao tratamento dos dados brutos:
-[tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil.<br>
-[tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil por região.<br>
-[tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos as vacinas contra as hepatites no Brasil.<br>
+Nesta pasta se encontram os notebooks desenvolvidos no jupyter, esses notebooks foram divididos em dois tipo, 3 deles destinados ao tratamento dos dados brutos:<br>
+* [tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil.<br>
+* [tratamento_casos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil por região.<br>
+* [tratamento_vacina](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos as vacinas contra as hepatites no Brasil.<br>
 ## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):📊
 
 # Conclusões 💡
