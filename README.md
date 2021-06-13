@@ -6,15 +6,15 @@ Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projet
 
 # Hepatites🦠
 
-## O que são as Hepatites
+## O que são as Hepatites 🇭
 
 A palavra hepatite vem do Grego “HEPAR”, que significa “fígado”, e a terminação “ITIS” foi adotada pelo linguajar médico para designar _**“doença inflamatória”**_, ou seja, uma hepatite é uma doença inflamatória que ataca o fígado e podem ser causadas por alguns remédios, álcool e outras drogas, doenças autoimunes, metabólicas e genéticas, porém nesse projeto o foco são as hepatites virais, que são aquelas infecções causadas por vírus.
 
-## Qual a importância do fígado
+## Qual a importância do fígado 📑
 
 O fígado é é considerado um dos maiores órgãos do corpo humano, ele é responsável por diversas funções cruciais para o corpo humano, tais como a síntese da maioria das proteínas produzidas no corpo, armazenamento de vitaminas e minerais, degradação de hormônios, armazenamento de substâncias, como o glicogênio, além disso ele produz a bile, que desempenha, principalmente, um papel na excreção de substâncias tóxicas e na absorção de gorduras e vitaminas lipossolúveis, quebrando as moléculas de gorduras em ácidos graxos, que são mais facilmente absorvidos no intestino delgado.
 
-## Hepatites Virais
+## Hepatites Virais 🧫
 
 Vários vírus podem causar quadros de inflamação do fígado, ou seja, hepatite. Porém, as chamadas hepatites virais são apenas aquelas causadas por _**vírus que atacam preferencialmente o fígado**_, portanto, até hoje foram descobertas 5 hepatites virais causadas por diferentes vírus, sendo elas a Hepatite A, B, C, D e E, porém as duas últimas(D e E) não são tão comuns no Brasil e portanto nesse projeto o foco será na _**hepatite A, B e C**_.
 
@@ -35,7 +35,7 @@ A hepatite C, causada pelo vírus C(HCV), é a _**maior causa de doença crônic
 
 Além disso o maior problema da hepatite C é que como ela evolui muito facilmente para fase crônica e ela não costuma apresentar sintomas agressivos, _**a maior parte das pessoas desconhecem sua infecção**_ e demoram para descobrir-la ,logo esse vírus permanece atacando o fígado da pessoa podendo evoluir para cirrose hepática, carcinoma hepatocelular (CHC), descompensação hepática, podendo ser fatal.
 
-## Mal Silencioso
+## Mal Silencioso 🐱‍👤
 
 Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, que também é oferecido gratuitamente pelo SUS, com medicamentos capazes de curar a infecção e impedir a progressão da doença.
  
