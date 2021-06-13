@@ -116,7 +116,7 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 * Matplotlib versão 3.1.3 : biblioteca usada para visualização de dados
 * Seaborn versão 0.10.0 : biblioteca baseada no Matplotlib para visualização de gráficos estatísticos mais complexos
 * Re versão 2.2.1 : biblioteca usada para manipulação de strings usando 'regular expressions'
-
+* Para mais informações de todas as versões utilizadas para replicação do projeto acesse o [requirements.txt](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/requirements.txt)
 # Agradecimentos 😀
 
 # Referências bibliográficas 📚
