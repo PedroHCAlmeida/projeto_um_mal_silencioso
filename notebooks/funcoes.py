@@ -2,7 +2,6 @@ import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 import re
-from functools import wraps
 
 def limpa_casos_h(dados:pd.DataFrame, hep:str):
     
