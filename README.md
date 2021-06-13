@@ -154,3 +154,8 @@ http://tabnet.datasus.gov.br/cgi/pni/Imun_cobertura_desde_1994.pdf<br>
 https://www.storytellingwithdata.com/<br>
 https://github.com/diascarolina/healthcare-analysis<br>
 https://jtemporal.com/requirements-txt/
+
+# Contato
+
+[<img src="https://img.shields.io/badge/pedrocorrea-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pedro-henrique-corrêa-de-almeida/)<br>
+[<img src="https://img.shields.io/badge/GITHUB-PedroHCAlmeida-DCDCDC?style=flat-square" />](https://github.com/PedroHCAlmeida)<br>
