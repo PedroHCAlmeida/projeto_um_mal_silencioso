@@ -6,15 +6,15 @@ Olá, meu nome é Pedro Henrique, e esse é meu repositório referente ao projet
 
 # Hepatites🦠
 
-## O que são as Hepatites
+## O que são as Hepatites 💭
 
 A palavra hepatite vem do Grego “HEPAR”, que significa “fígado”, e a terminação “ITIS” foi adotada pelo linguajar médico para designar _**“doença inflamatória”**_, ou seja, uma hepatite é uma doença inflamatória que ataca o fígado e podem ser causadas por alguns remédios, álcool e outras drogas, doenças autoimunes, metabólicas e genéticas, porém nesse projeto o foco são as hepatites virais, que são aquelas infecções causadas por vírus.
 
-## Qual a importância do fígado
+## Qual a importância do fígado 📑
 
 O fígado é é considerado um dos maiores órgãos do corpo humano, ele é responsável por diversas funções cruciais para o corpo humano, tais como a síntese da maioria das proteínas produzidas no corpo, armazenamento de vitaminas e minerais, degradação de hormônios, armazenamento de substâncias, como o glicogênio, além disso ele produz a bile, que desempenha, principalmente, um papel na excreção de substâncias tóxicas e na absorção de gorduras e vitaminas lipossolúveis, quebrando as moléculas de gorduras em ácidos graxos, que são mais facilmente absorvidos no intestino delgado.
 
-## Hepatites Virais
+## Hepatites Virais 🧫
 
 Vários vírus podem causar quadros de inflamação do fígado, ou seja, hepatite. Porém, as chamadas hepatites virais são apenas aquelas causadas por _**vírus que atacam preferencialmente o fígado**_, portanto, até hoje foram descobertas 5 hepatites virais causadas por diferentes vírus, sendo elas a Hepatite A, B, C, D e E, porém as duas últimas(D e E) não são tão comuns no Brasil e portanto nesse projeto o foco será na _**hepatite A, B e C**_.
 
@@ -35,7 +35,7 @@ A hepatite C, causada pelo vírus C(HCV), é a _**maior causa de doença crônic
 
 Além disso o maior problema da hepatite C é que como ela evolui muito facilmente para fase crônica e ela não costuma apresentar sintomas agressivos, _**a maior parte das pessoas desconhecem sua infecção**_ e demoram para descobrir-la ,logo esse vírus permanece atacando o fígado da pessoa podendo evoluir para cirrose hepática, carcinoma hepatocelular (CHC), descompensação hepática, podendo ser fatal.
 
-## Mal Silencioso
+## Mal Silencioso 🐱‍👤
 
 Por todas essas razões citadas as hepatites atacam o fígado muitas vezes silenciosamente, o que reitera a importância das pessoas tomarem os devidos cuidados e sempre estarem atentos à uma possível infecção, testes rápidos das doenças são oferecidos gratuitamento pelo SUS e se positivar a pessoa pode ser encaminhada para o tratamento, que também é oferecido gratuitamente pelo SUS, com medicamentos capazes de curar a infecção e impedir a progressão da doença.
  
@@ -59,7 +59,7 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 * Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias para cada Hepatite?
 
 # Estrutura do projeto 🧱
-## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
+## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos)🗃️
 Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em 13 arquivos, 6 .csv e 7 .xls, obtidos de 3 fontes de dados, são eles:
 
 * arquivo .csv obtido do [DATASUS](http://tabnet.datasus.gov.br/cgi/deftohtm.exe?sinanwin/cnv/hepabr.def) sobre os casos e óbitos de hepatite no Brasil todo:
@@ -82,17 +82,30 @@ Nesta pasta estão os arquivos relacionados aos dados brutos, esses consistem em
 * arquivo .xls com estimativas populacionais realizadas pelo [IBGE](https://www.ibge.gov.br/estatisticas/sociais/populacao.html) entre 2001 e 2020 por unidade federativa:
 [serie_2001_2020_TCU_populacao.xls](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_brutos/serie_2001_2020_TCU_populacao.xls) : arquivo xls com dados com dados da estimativa da população brasileira feita pelo IBGE entre 2001 e 2020<br>
 
-## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):
+## [Dados Tratados](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_tratados):🗂️
 Aqui se encontram os dados que foram tratados para realizar a [análise final](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/Analise_final.ipynb), esses dados se encontram em 3 arquivos .csv, são eles:<br>
 * [casos_obitos_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_hep): dados sobre o número de casos e óbitos das hepatite A, B e C por ano, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
 * [casos_obitos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/casos_obitos_por_regiao): dados sobre o número de casos e óbitos das hepatites A, B e C por ano e por região, além disso com dados de taxas de incidência e de óbitos a cada 100 mil habitantes.<br>
 * [vacinas_hep](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/dados_tratados/vacinas_hep): dados sobre a cobertura de vacinação contra a hepatite A e B, e a soma das doses aplicadas das vacinas contra hepatite B(HB, pentavalente e hexavalente) e da vacina contra a hepatite A <br>
-## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):
-## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):
+## [Notebooks](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/notebooks):📓
+
+Nesta pasta se encontram os notebooks desenvolvidos no jupyter, esses notebooks foram divididos em dois tipos, 3 deles destinados ao tratamento dos dados brutos:<br>
+* [tratamento_casos_obitos_hep_brasil](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil.<br>
+* [tratamento_casos_por_regiao](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos casos e óbitos de hepatite no Brasil por região.<br>
+* [tratamento_vacina](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/tratamento_casos_obitos_hep_brasil.ipynb): notebook destinado a realizar todas as transformações necessárias nos conjuntos de dados relacionados aos as vacinas contra as hepatites no Brasil.<br>
+<br>
+O outro notebook foi destinado à análise dos dados e as visualizações:<br>
+
+* [Analise_final](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/Analise_final.ipynb): notebook destinado à análise dos dados de hepatite A, B e C<br>
+
+Além dos notebooks nessa pasta se encontra o arquivo [requirements.txt](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/requirements.txt) , com a lista de todos os pacotes usados no projeto, afim de facilitar a reprodutibilidade.
+## [Imagens](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/images):📊
+
+Nessa pasta estão as imagens utilizadas no projeto, tanto no README e nos notebooks, e todos os gráficos criados no projeto.
 
 # Conclusões 💡
 
-:
+Após a análise foi possível tirar diversas informação dos dados e criar algumas hipóteses, foram elas:
 * O vírus HCV é a responsável pela maior quantidade de casos de hepatite desde 2008 no Brasil
 * O vírus HAV da hepatite A vem baixando ao longo do tempo desde 2006 no Brasil, o que pode ser advindo de um investimento melhor em saneamento básico
 * A hepatite C é a hepatite que _**mais matou**_ no Brasil em todo o período de 2007 e 2018 
@@ -119,7 +132,9 @@ Esse projeto foi realizado utilizando a lingaugem Python versão 3.7.6 através 
 * Para mais informações de todas as versões utilizadas para replicação do projeto acesse o [requirements.txt](https://github.com/PedroHCAlmeida/projeto_um_mal_silencioso/blob/main/notebooks/requirements.txt)
 # Agradecimentos 😀
 
-# Referências bibliográficas 📚
+Queria agradecer a todos da alura, aos professores Thiago Gonçalves e Guilherme Silveira, a todo pessoal do discord do bootcamp de Data Science Aplicada e aos projetos dos outros alunos que todos eles ajudam a melhorar e dão diversas inspirações. 
+
+# Referências 📚
 
 https://mundoeducacao.uol.com.br/biologia/figado.htm<br>
 https://hepatogastro.com.br/importancia-da-saude-do-figado/<br>
@@ -135,3 +150,6 @@ http://www.planassiste.mpu.mp.br/news/governo-inclui-vacina-contra-hepatite-a-no
 https://portalarquivos.saude.gov.br/campanhas/vivamaissus/hepatite_interna.html<br>
 https://www.scielo.br/j/sausoc/a/gn7vpPFZYBHq6s6JVtHCHbw/?lang=pt#<br>
 http://tabnet.datasus.gov.br/cgi/pni/Imun_cobertura_desde_1994.pdf<br>
+https://www.storytellingwithdata.com/<br>
+https://github.com/diascarolina/healthcare-analysis<br>
+https://jtemporal.com/requirements-txt/
