@@ -92,7 +92,7 @@ Aqui se encontram os dados que foram tratados para realizar a [análise final](h
 
 # Conclusões 💡
 
-Agora vamos ver todas as informações que obtivemos atrvés dos dados e das visulizações:
+:
 * O vírus HCV é a responsável pela maior quantidade de casos de hepatite desde 2008 no Brasil
 * O vírus HAV da hepatite A vem baixando ao longo do tempo desde 2006 no Brasil, o que pode ser advindo de um investimento melhor em saneamento básico
 * A hepatite C é a hepatite que _**mais matou**_ no Brasil em todo o período de 2007 e 2018 
