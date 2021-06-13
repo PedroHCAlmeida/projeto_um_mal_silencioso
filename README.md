@@ -45,13 +45,17 @@ O intuito do projeto será relizar análises a fim de responder certas perguntas
 
 * Qual a Hepatite Viral mais comum no Brasil atualmente?
 * Qual a Hepatite que mais mata pessoas por ano?
-* Alguma Hepatite está aumentando nos últimos anos?
-* Qual a taxa de incidência, relativa à população, de Hepatite no Brasil?
+* Qual a letalidade média de cada Hepatite?
+* Quando começou a vacinação ampla contra a Hepatite B?
+* Existe uma relação entre as doses aplicadas das vacinas contra a Hepatite B e as taxas de incidência e óbitos?
+* Quando começou a vacinação ampla contra a Hepatite A?
+* Existe uma relação entre as doses aplicadas da vacina contra a Hepatite A e as taxas de incidência e óbitos?
 * Qual a taxa de óbitos, relativa à população, de Hepatite no Brasil?
-* Qual região brasileira mais apresenta casos de Hepatite por ano?
-* Qual região brasileira mais apresenta óbitos por Hepatite por ano?
-* Qual região brasileira apresenta maior taxa de incidência da Hepatite?
-* Qual região brasileira apresenta maior taxa de óbitos de Hepatite?
+* Qual região brasileira mais apresenta casos e óbitos de Hepatite por ano?
+* Como se comporta a taxa de incidência, relativa à população, de cada Hepatite em cada região nos últimos anos?
+* Como se comporta a taxa de óbitos, relativa à população, de cada Hepatite em cada região nos últimos anos?
+* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias das Hepatites?
+* Qual região brasileira apresenta maior taxa de incidência e maior taxa de óbitos médias da Hepatite C?
 
 # Estrutura do projeto 🧱
 ## [Dados Brutos](https://github.com/Pedro-correa-almeida/projeto_um_mal_silencioso/tree/main/dados_brutos):
