@@ -150,3 +150,5 @@ http://www.planassiste.mpu.mp.br/news/governo-inclui-vacina-contra-hepatite-a-no
 https://portalarquivos.saude.gov.br/campanhas/vivamaissus/hepatite_interna.html<br>
 https://www.scielo.br/j/sausoc/a/gn7vpPFZYBHq6s6JVtHCHbw/?lang=pt#<br>
 http://tabnet.datasus.gov.br/cgi/pni/Imun_cobertura_desde_1994.pdf<br>
+https://www.storytellingwithdata.com/<br>
+https://github.com/diascarolina/healthcare-analysis<br>
